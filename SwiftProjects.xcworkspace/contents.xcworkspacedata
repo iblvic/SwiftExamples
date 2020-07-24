@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Project 01 - SimpleStopWatch/StopWatch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 02 - CustomFont/CustomFont.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 03 - PlayLocalVideo/PlayLocalVideo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 04 - SnapChatMenu/Snapchat Menu.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 05 - CarouselEffect/Carousel Effect.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 06 - FindMyLocation/Where.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 07 - PullToRefresh/PullToRefresh.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 08 - RandomGradientColorMusic/RandomColorization.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 09 -ImageScroller/ImageScrollerEffect.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 09 -ImageScroller/../Project 10 - VideoBackground/SpotifyVideoBackground.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 11 - ClearTableViewCell/ClearTableViewCell.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 12 - LoginAnimation/LoginAnimation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 13 - AnimateTableViewCell/animateTable.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 14 - EmojiSlotMachine/EmojiMachine.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 15 -  AnimatedSplash/AnimatedSplash.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 16 - SlideMenu/SlideMenu.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 17 - TumblrMenu/TumblrMenu.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 18 - LimitCharacters/LimitCharacters.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 19 - CustomPullToRefresh/PullRefresh.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 20 - CollectionViewAnimation/CollectionViewAnimation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 21 - SwipeableCell/SwipeableCell.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 22 - 3DTouchQuickAction/3DTouchQuickAction.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 23 - SlideOutMenu/SlideOutMenu.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 24 - MosaicLayout/MosaicLayout.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 25 - UIViewBasicAnimation/BasicAnimation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 26 - CoreDataApp/CoreDataDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 27 - TabbarApp/TabbarApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 28 - SpotlightSearch/SpotIt.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 29 - iMessageImagePicker/ImagePickerSheetController.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Project 30 - WikiFace/WikiFace.xcodeproj">
+   </FileRef>
+</Workspace>
